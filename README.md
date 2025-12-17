@@ -1,3 +1,6 @@
+Fork  - Atualização do Repositório e alterações para melhor adequação.
+
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
